@@ -1,6 +1,6 @@
 """
 Using BFS, DFS, Greedy Best Search and A* Algorithms to solve the n-puzzle problem
-@author: Apoorv Purwar (ap3644)
+@author: Apoorv Purwar (ap3644@columbia.edu)
 """
 
 import time
